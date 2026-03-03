@@ -33,8 +33,4 @@ Developed by students of BS Artificial Intelligence (5th Semester) at the Univer
 
 Muhammad Hasnain Haider
 
-Zain ul Arfeen
-
-Umar Raiz
-
 Supervised by: Sir Gul Nawaz
